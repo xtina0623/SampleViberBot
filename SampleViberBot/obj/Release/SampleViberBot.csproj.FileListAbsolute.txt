@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\SampleViberBot\SampleViberBot\bin\SampleViberBot.dll.config
+c:\users\dell\documents\visual studio 2013\Projects\SampleViberBot\SampleViberBot\bin\SampleViberBot.dll
+c:\users\dell\documents\visual studio 2013\Projects\SampleViberBot\SampleViberBot\bin\SampleViberBot.pdb
+c:\users\dell\documents\visual studio 2013\Projects\SampleViberBot\SampleViberBot\bin\CloudrailSI.dll
+c:\users\dell\documents\visual studio 2013\Projects\SampleViberBot\SampleViberBot\obj\Release\SampleViberBot.dll
+c:\users\dell\documents\visual studio 2013\Projects\SampleViberBot\SampleViberBot\obj\Release\SampleViberBot.pdb

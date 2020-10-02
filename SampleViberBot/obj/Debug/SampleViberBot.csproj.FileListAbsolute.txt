@@ -1,0 +1,7 @@
+c:\users\dell\documents\visual studio 2013\Projects\SampleViberBot\SampleViberBot\bin\SampleViberBot.dll.config
+c:\users\dell\documents\visual studio 2013\Projects\SampleViberBot\SampleViberBot\bin\SampleViberBot.dll
+c:\users\dell\documents\visual studio 2013\Projects\SampleViberBot\SampleViberBot\bin\SampleViberBot.pdb
+c:\users\dell\documents\visual studio 2013\Projects\SampleViberBot\SampleViberBot\obj\Debug\SampleViberBot.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\SampleViberBot\SampleViberBot\obj\Debug\SampleViberBot.dll
+c:\users\dell\documents\visual studio 2013\Projects\SampleViberBot\SampleViberBot\obj\Debug\SampleViberBot.pdb
+c:\users\dell\documents\visual studio 2013\Projects\SampleViberBot\SampleViberBot\bin\CloudrailSI.dll
